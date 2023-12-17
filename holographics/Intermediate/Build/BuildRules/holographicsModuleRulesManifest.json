@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\qmffk\\source\\repos\\holographic-weapon-sight-unreal\\holographics\\Source\\holographics\\holographics.Build.cs",
+		"C:\\Users\\qmffk\\source\\repos\\holographic-weapon-sight-unreal\\holographics\\Source\\holographics.Target.cs",
+		"C:\\Users\\qmffk\\source\\repos\\holographic-weapon-sight-unreal\\holographics\\Source\\holographicsEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

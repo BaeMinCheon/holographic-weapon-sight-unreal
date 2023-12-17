@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "holographics",
+			"Path": "..\\Source\\holographics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "holographicsEditor",
+			"Path": "..\\Source\\holographicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
